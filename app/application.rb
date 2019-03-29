@@ -1,5 +1,5 @@
 class Application
   
-  @@items = []
+  @@items = [Item.new Item.new]
   
 end
